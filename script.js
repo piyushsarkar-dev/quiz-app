@@ -107,9 +107,7 @@ function showQuestion() {
 function resetState() {
     nextBtn.style.display = 'none';
     selectedAnswer = null;
-    while (answerButtons.firstChild) {
-        answerButtons.removeChild(answerButtons.firstChild);
-    }
+    answerButtons.innerHTML = '';
 }
 
 // Select Answer
@@ -153,7 +151,7 @@ function showResults() {
     resultScreen.classList.add('active');
     
     const percentage = (score / quizQuestions.length) * 100;
-    finalScore.textContent = `${score} / ${quizQuestions.length} (${percentage.toFixed(0)}%)`;
+    finalScore.textContent = `${score} / ${quizQuestions.length} (${Math.round(percentage)}%)`;
     
     if (percentage >= 80) {
         resultMessage.textContent = "Excellent! You did great! 🎉";
