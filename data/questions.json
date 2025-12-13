@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "category": "Home Tab",
+    "question": "Home Tab-এর কোন গ্রুপে ফন্টের সাইজ পরিবর্তন করা যায়?",
+    "options": ["Paragraph", "Font", "Styles", "Editing"],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "category": "Home Tab",
+    "question": "Bold করার শর্টকাট কী?",
+    "options": ["Ctrl + U", "Ctrl + I", "Ctrl + B", "Ctrl + L"],
+    "correctIndex": 2
+  },
+  {
+    "id": 3,
+    "category": "Home Tab",
+    "question": "টেক্সটকে Center Align করতে কোন অপশনটি ব্যবহার হয়?",
+    "options": ["Align Right", "Align Left", "Center", "Justify"],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "category": "Home Tab",
+    "question": "Home Tab-এর কোন অংশে Bullets ও Numbering পাওয়া যায়?",
+    "options": ["Styles", "Font", "Paragraph", "Clipboard"],
+    "correctIndex": 2
+  },
+  {
+    "id": 5,
+    "category": "Home Tab",
+    "question": "টেক্সটকে Italic করতে কী ব্যবহার করা হয়?",
+    "options": ["Ctrl + B", "Ctrl + U", "Ctrl + I", "Ctrl + E"],
+    "correctIndex": 2
+  },
+  {
+    "id": 6,
+    "category": "Home Tab",
+    "question": "Copy করার শর্টকাট কী?",
+    "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + A"],
+    "correctIndex": 0
+  },
+  {
+    "id": 7,
+    "category": "Home Tab",
+    "question": "Paste অপশন কোন গ্রুপে থাকে?",
+    "options": ["Styles", "Clipboard", "Editing", "Font"],
+    "correctIndex": 1
+  },
+  {
+    "id": 8,
+    "category": "Home Tab",
+    "question": "টেক্সট Underline করার শর্টকাট কী?",
+    "options": ["Ctrl + U", "Ctrl + N", "Ctrl + I", "Ctrl + P"],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "category": "Home Tab",
+    "question": "Find and Replace অপশন কোন গ্রুপে থাকে?",
+    "options": ["Paragraph", "Styles", "Editing", "Font"],
+    "correctIndex": 2
+  },
+  {
+    "id": 10,
+    "category": "Home Tab",
+    "question": "Clear Formatting করতে কোন আইকনটি ব্যবহার হয়?",
+    "options": ["Eraser", "Brush", "Clear All Formatting (Aa)", "Bin"],
+    "correctIndex": 2
+  },
+  {
+    "id": 11,
+    "category": "Insert Tab",
+    "question": "Insert Tab থেকে কী যুক্ত করা যায়?",
+    "options": ["Chart", "Table", "Picture", "উপরের সবগুলো"],
+    "correctIndex": 3
+  },
+  {
+    "id": 12,
+    "category": "Insert Tab",
+    "question": "Header ও Footer কোথা থেকে যোগ করা হয়?",
+    "options": ["Page Layout", "Insert", "Home", "Design"],
+    "correctIndex": 1
+  },
+  {
+    "id": 13,
+    "category": "Insert Tab",
+    "question": "Insert → Picture ব্যবহার করে কী করা হয়?",
+    "options": ["টেবিল বানানো", "ছবি যোগ করা", "টেক্সট ফরম্যাট করা", "পেজ মার্জিন সেট করা"],
+    "correctIndex": 1
+  },
+  {
+    "id": 14,
+    "category": "Insert Tab",
+    "question": "Insert → Table দিয়ে কী করা যায়?",
+    "options": ["রঙ যোগ", "টেবিল তৈরি", "চার্ট বানানো", "হেডার সেট"],
+    "correctIndex": 1
+  },
+  {
+    "id": 15,
+    "category": "Insert Tab",
+    "question": "Insert → Shapes দিয়ে কী যোগ করা যায়?",
+    "options": ["Video", "SmartArt", "বিভিন্ন আকৃতি", "Chart"],
+    "correctIndex": 2
+  },
+  {
+    "id": 16,
+    "category": "Insert Tab",
+    "question": "Insert → Chart কী করে?",
+    "options": ["ছবি যোগ", "গ্রাফ তৈরি", "টেবিল তৈরি", "পেজ রঙ বদলানো"],
+    "correctIndex": 1
+  },
+  {
+    "id": 17,
+    "category": "Insert Tab",
+    "question": "Insert → Hyperlink কী কাজে লাগে?",
+    "options": ["ডকুমেন্ট সেভ", "ফাইল প্রিন্ট", "লিংক যুক্ত", "টেক্সট কালার পরিবর্তন"],
+    "correctIndex": 2
+  },
+  {
+    "id": 18,
+    "category": "Insert Tab",
+    "question": "Insert → WordArt দিয়ে কী করা হয়?",
+    "options": ["টেক্সটকে স্টাইলিশ করা", "টেবিল বানানো", "ছবি যোগ", "বর্ডার দেওয়া"],
+    "correctIndex": 0
+  },
+  {
+    "id": 19,
+    "category": "Insert Tab",
+    "question": "Insert → SmartArt এর মাধ্যমে কী যোগ করা হয়?",
+    "options": ["চার্ট", "ডায়াগ্রাম", "পেজ কালার", "ব্যাকগ্রাউন্ড"],
+    "correctIndex": 1
+  },
+  {
+    "id": 20,
+    "category": "Insert Tab",
+    "question": "Insert → Symbol এর কাজ কী?",
+    "options": ["ফন্ট পরিবর্তন", "চিহ্ন বা বিশেষ প্রতীক যোগ", "ব্যাকগ্রাউন্ড সেট", "পেজ নম্বর দেওয়া"],
+    "correctIndex": 1
+  },
+  {
+    "id": 21,
+    "category": "Design Tab",
+    "question": "Design Tab এর প্রধান কাজ কী?",
+    "options": ["টেক্সট ফরম্যাট", "পেজের লুক পরিবর্তন", "টেবিল তৈরি", "চার্ট বানানো"],
+    "correctIndex": 1
+  },
+  {
+    "id": 22,
+    "category": "Design Tab",
+    "question": "Themes অপশন কোথায় থাকে?",
+    "options": ["Home", "Insert", "Design", "View"],
+    "correctIndex": 2
+  },
+  {
+    "id": 23,
+    "category": "Design Tab",
+    "question": "Page Color পরিবর্তন করতে কোন অপশন ব্যবহার হয়?",
+    "options": ["Page Borders", "Page Color", "Watermark", "Layout"],
+    "correctIndex": 1
+  },
+  {
+    "id": 24,
+    "category": "Design Tab",
+    "question": "Design → Watermark এর কাজ কী?",
+    "options": ["ব্যাকগ্রাউন্ডে ফেইড লেখা দেওয়া", "ছবি যোগ", "টেবিল তৈরি", "লিংক যুক্ত"],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "category": "Design Tab",
+    "question": "Design → Page Borders কী করে?",
+    "options": ["টেক্সট কালার দেয়", "পেজে বর্ডার যোগ করে", "পেজ নাম দেয়", "হেডার সেট করে"],
+    "correctIndex": 1
+  },
+  {
+    "id": 26,
+    "category": "Design Tab",
+    "question": "Design Tab এর মাধ্যমে কী পরিবর্তন করা যায়?",
+    "options": ["Font color", "Page background", "Both A and B", "None"],
+    "correctIndex": 2
+  },
+  {
+    "id": 27,
+    "category": "Design Tab",
+    "question": "Theme Fonts কোন জায়গায় পরিবর্তন হয়?",
+    "options": ["Insert", "Design", "Layout", "View"],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "category": "Design Tab",
+    "question": "Design Tab ব্যবহার করে কোন কাজটি করা যায় না?",
+    "options": ["টেবিল ইনসার্ট", "Theme পরিবর্তন", "Watermark দেওয়া", "Page Color পরিবর্তন"],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "category": "Design Tab",
+    "question": "Design → Document Formatting দ্বারা কী বোঝায়?",
+    "options": ["Theme সেটিংস", "Layout পরিবর্তন", "Zoom করা", "টেক্সট এডিট"],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "category": "Design Tab",
+    "question": "Design Tab সাধারণত কোন কাজের জন্য ব্যবহৃত হয়?",
+    "options": ["ডেটা এন্ট্রি", "পেজের লুক ও ফিল পরিবর্তন", "হিসাব করা", "হাইপারলিঙ্ক তৈরি"],
+    "correctIndex": 1
+  },
+  {
+    "id": 31,
+    "category": "Layout Tab",
+    "question": "Layout Tab এর প্রধান কাজ কী?",
+    "options": ["পেজ সেটআপ", "ফন্ট পরিবর্তন", "ছবি যোগ", "চার্ট তৈরি"],
+    "correctIndex": 0
+  },
+  {
+    "id": 32,
+    "category": "Layout Tab",
+    "question": "Margins কোথা থেকে পরিবর্তন করা হয়?",
+    "options": ["Layout", "Insert", "Home", "Review"],
+    "correctIndex": 0
+  },
+  {
+    "id": 33,
+    "category": "Layout Tab",
+    "question": "Orientation এর কাজ কী?",
+    "options": ["টেক্সট কালার বদলানো", "পেজকে Portrait বা Landscape করা", "Theme দেওয়া", "ছবি ইনসার্ট"],
+    "correctIndex": 1
+  },
+  {
+    "id": 34,
+    "category": "Layout Tab",
+    "question": "Size অপশন দিয়ে কী করা হয়?",
+    "options": ["ফন্ট সাইজ পরিবর্তন", "পেজ সাইজ পরিবর্তন", "লাইন স্পেসিং", "টেবিল সাইজ"],
+    "correctIndex": 1
+  },
+  {
+    "id": 35,
+    "category": "Layout Tab",
+    "question": "Columns ব্যবহার করে কী করা হয়?",
+    "options": ["টেবিল বানানো", "পেজকে একাধিক কলামে ভাগ করা", "Theme দেওয়া", "বর্ডার দেওয়া"],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "category": "Layout Tab",
+    "question": "Indent অপশন কী নিয়ন্ত্রণ করে?",
+    "options": ["টেক্সটের রঙ", "টেক্সটের ভিতরের স্পেস", "পেজ বর্ডার", "হেডার"],
+    "correctIndex": 1
+  },
+  {
+    "id": 37,
+    "category": "Layout Tab",
+    "question": "Spacing অপশন কী কাজ করে?",
+    "options": ["লাইনের দূরত্ব নিয়ন্ত্রণ", "পেজ সাইজ সেট", "ছবি ইনসার্ট", "বর্ডার"],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "category": "Layout Tab",
+    "question": "Breaks অপশন দিয়ে কী করা হয়?",
+    "options": ["পেজ বিভক্ত করা", "টেক্সট কালার", "Table border", "Theme"],
+    "correctIndex": 0
+  },
+  {
+    "id": 39,
+    "category": "Layout Tab",
+    "question": "Line Numbers কোথা থেকে যোগ করা হয়?",
+    "options": ["Layout", "Insert", "Home", "Design"],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "category": "Layout Tab",
+    "question": "Layout Tab এ থাকা Margins এর ডিফল্ট অপশন কোনটি?",
+    "options": ["Narrow", "Normal", "Wide", "Moderate"],
+    "correctIndex": 1
+  }
+]
